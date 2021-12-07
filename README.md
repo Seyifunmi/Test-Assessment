@@ -1,4 +1,4 @@
-# Quidax-Assessment
+# Test-Assessment
 
 The following pre-requisites are required to run this test on any machine.
 
