@@ -1,4 +1,4 @@
-# Test-Assessment
+# Test-Sample
 
 The following pre-requisites are required to run this test on any machine.
 
